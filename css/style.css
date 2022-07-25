@@ -1,0 +1,44 @@
+/* Row Css */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.blue{
+    color: #3F87F5;
+}
+.bg-blue{
+    background-color: #3F87F5;
+}
+.py-6{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+/* MENU */
+.our-logo > a{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+ul.our-nav li a{
+    color: #000;
+    font-style: 20px;
+    margin: 0 10px;
+}
+
+/* Carousel */
+.our-carousel h2{
+    font-weight: 600;
+    font-size: 48px;
+    margin: 0 200px;
+}
+.our-carousel p{
+    font-weight: 300;
+    font-size: 16px;
+    margin: 0 300px;
+}
+.our-carousel .btn{
+    padding: 12px 36px;
+}
+
+
+/* Wedding */
